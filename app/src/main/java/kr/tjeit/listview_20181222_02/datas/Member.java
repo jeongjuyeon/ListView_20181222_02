@@ -36,10 +36,10 @@ public class Member {
     }
 
     public String getProfilIeLmageUrl() {
-        return profilIeLmageUrl;
+        return profileImageUrl;
     }
 
     public void setProfilIeLmageUrl(String profilIeLmageUrl) {
-        this.profilIeLmageUrl = profilIeLmageUrl;
+        this.profileImageUrl = profilIeLmageUrl;
     }
 }
